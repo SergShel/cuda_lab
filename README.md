@@ -14,7 +14,7 @@ The course has the following structure:
 * [Assignment 7](Assignment_7) - TriNet Siamese model on "Labeled Faces in the Wild" (LFW) dataset
 * [Assignment 8](Assignment_8) - semantic segmentation with U-Net on Cityscapes dataset
 
-* [Final Project](https://github.com/SergShel/cuda_lab_project) - Video Semantic Segmentation with Recurrent U-Net
+* [Final Project](https://github.com/SergShel/cuda_lab_project) - Video Semantic Segmentation with Recurrent U-Net on Cityscapes dataset
 
 To see more information about the Assignments / Final Project follow the provided links
 
