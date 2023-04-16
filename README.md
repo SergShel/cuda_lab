@@ -11,7 +11,7 @@ The course has the following structure:
 * [Assignment 4](Assignment_4) - RNNs on KTH-Actions dataset
 * [Assignment 5](Assignment_5) - Conditional VAE on SVHN dataset
 * [Assignment 6](Assignment_6) - DCGAN on Fashion MNIST and CelebA datasets
-* [Assignment 7](Assignment_7) - TriNet Siamese model on "Labeled Faces in the Wild" (LFW) dataset
+* Assignment_7 - TriNet Siamese model on "Labeled Faces in the Wild" (LFW) dataset (was implemented by the group partner)
 * [Assignment 8](Assignment_8) - semantic segmentation with U-Net on Cityscapes dataset
 
 * [Final Project](https://github.com/SergShel/cuda_lab_project) - Video Semantic Segmentation with Recurrent U-Net on Cityscapes dataset
